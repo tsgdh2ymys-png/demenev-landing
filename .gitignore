@@ -15,3 +15,4 @@ yarn-error.log*
 
 # Артефакт менеджера скиллов (не часть проекта)
 skills-lock.json
+.vercel
